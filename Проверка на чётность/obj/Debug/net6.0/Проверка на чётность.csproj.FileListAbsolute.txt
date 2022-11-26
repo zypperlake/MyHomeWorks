@@ -1,0 +1,15 @@
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\bin\Debug\net6.0\Проверка на чётность.exe
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\bin\Debug\net6.0\Проверка на чётность.deps.json
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\bin\Debug\net6.0\Проверка на чётность.runtimeconfig.json
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\bin\Debug\net6.0\Проверка на чётность.dll
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\bin\Debug\net6.0\Проверка на чётность.pdb
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.AssemblyInfo.cs
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.dll
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\refint\Проверка на чётность.dll
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.pdb
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\Проверка на чётность.genruntimeconfig.cache
+C:\Users\Home\Desktop\MyHomeWorks\Проверка на чётность\obj\Debug\net6.0\ref\Проверка на чётность.dll

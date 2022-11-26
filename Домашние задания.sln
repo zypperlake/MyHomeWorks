@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Среднее арифме
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Сумма и произведения трёх чисел", "Сумма и произведения трёх чисел\Сумма и произведения трёх чисел.csproj", "{D43A6FC3-158A-4E0F-9342-D21CD8444EF5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Проверка на чётность", "Проверка на чётность\Проверка на чётность.csproj", "{EA958741-AC45-4449-966B-55BBEF4C4A83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{D43A6FC3-158A-4E0F-9342-D21CD8444EF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D43A6FC3-158A-4E0F-9342-D21CD8444EF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D43A6FC3-158A-4E0F-9342-D21CD8444EF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA958741-AC45-4449-966B-55BBEF4C4A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA958741-AC45-4449-966B-55BBEF4C4A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA958741-AC45-4449-966B-55BBEF4C4A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA958741-AC45-4449-966B-55BBEF4C4A83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
