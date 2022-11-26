@@ -1,0 +1,33 @@
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.csproj.AssemblyReference.cache
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.AssemblyInfoInputs.cache
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.AssemblyInfo.cs
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.csproj.CoreCompileInputs.cache
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.exe
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.deps.json
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.runtimeconfig.json
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.dll
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.pdb
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.dll
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\refint\1. Типы данных.dll
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.pdb
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.genruntimeconfig.cache
+C:\Users\Home\Desktop\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\ref\1. Типы данных.dll
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.csproj.AssemblyReference.cache
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.GeneratedMSBuildEditorConfig.editorconfig
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.AssemblyInfoInputs.cache
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.AssemblyInfo.cs
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.csproj.CoreCompileInputs.cache
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.dll
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\refint\1. Типы данных.dll
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.pdb
+C:\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.exe
+C:\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.deps.json
+C:\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.runtimeconfig.json
+C:\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.dll
+C:\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\1. Типы данных.pdb
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.genruntimeconfig.cache
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\ref\1. Типы данных.dll
+C:\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\Neurons.dll
+C:\My projects\1. Типы данных\1. Типы данных\bin\Debug\net6.0\Neurons.pdb
+C:\My projects\1. Типы данных\1. Типы данных\obj\Debug\net6.0\1. Типы данных.csproj.CopyComplete
