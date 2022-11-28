@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Home\\.nuget\\packages\\": {}
+    "C:\\Users\\s.matnazarov\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Home\\Desktop\\MyHomeWorks\\Сумма и произведения трёх чисел\\Сумма и произведения трёх чисел.csproj",
+      "projectUniqueName": "D:\\Users\\s.matnazarov\\Desktop\\MyHomeWorks\\Сумма и произведения трёх чисел\\Сумма и произведения трёх чисел.csproj",
       "projectName": "Сумма и произведения трёх чисел",
-      "projectPath": "C:\\Users\\Home\\Desktop\\MyHomeWorks\\Сумма и произведения трёх чисел\\Сумма и произведения трёх чисел.csproj",
-      "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Home\\Desktop\\MyHomeWorks\\Сумма и произведения трёх чисел\\obj\\",
+      "projectPath": "D:\\Users\\s.matnazarov\\Desktop\\MyHomeWorks\\Сумма и произведения трёх чисел\\Сумма и произведения трёх чисел.csproj",
+      "packagesPath": "C:\\Users\\s.matnazarov\\.nuget\\packages\\",
+      "outputPath": "D:\\Users\\s.matnazarov\\Desktop\\MyHomeWorks\\Сумма и произведения трёх чисел\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\s.matnazarov\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,0 +1,15 @@
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\bin\Debug\net6.0\Типы данных.exe
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\bin\Debug\net6.0\Типы данных.deps.json
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\bin\Debug\net6.0\Типы данных.runtimeconfig.json
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\bin\Debug\net6.0\Типы данных.dll
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\bin\Debug\net6.0\Типы данных.pdb
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.csproj.AssemblyReference.cache
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.AssemblyInfoInputs.cache
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.AssemblyInfo.cs
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.csproj.CoreCompileInputs.cache
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.dll
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\refint\Типы данных.dll
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.pdb
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\Типы данных.genruntimeconfig.cache
+D:\Users\s.matnazarov\Desktop\MyHomeWorks\Типы данных\obj\Debug\net6.0\ref\Типы данных.dll
