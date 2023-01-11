@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Типы данных", "Т
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Вложенные циклы триуголники", "Вложенные циклы триуголники\Вложенные циклы триуголники.csproj", "{951B8209-9AAF-4395-AB4E-AA4FF987ABCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вввод массива с клавиатуры", "Вввод массива с клавиатуры\Вввод массива с клавиатуры.csproj", "{B5AA8122-2644-42BE-A5B1-5E3522DA4B0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Вввод массива с клавиатуры", "Вввод массива с клавиатуры\Вввод массива с клавиатуры.csproj", "{B5AA8122-2644-42BE-A5B1-5E3522DA4B0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Вывод массива в обратном порядке", "Вывод массива в обратном порядке\Вывод массива в обратном порядке.csproj", "{9526CE07-DEE6-40D1-B8E3-F05DF10479FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{B5AA8122-2644-42BE-A5B1-5E3522DA4B0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5AA8122-2644-42BE-A5B1-5E3522DA4B0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5AA8122-2644-42BE-A5B1-5E3522DA4B0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9526CE07-DEE6-40D1-B8E3-F05DF10479FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9526CE07-DEE6-40D1-B8E3-F05DF10479FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9526CE07-DEE6-40D1-B8E3-F05DF10479FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9526CE07-DEE6-40D1-B8E3-F05DF10479FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
